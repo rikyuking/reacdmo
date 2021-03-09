@@ -31,5 +31,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://namkwon.github.io/reactdemo"
+  "homepage": "https://reacd.herokuapp.com/"
 }
