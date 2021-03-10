@@ -31,5 +31,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://reacdmo.herokuapp.com/"
+  "homepage": "https://barioz.herokuapp.com/"
 }
